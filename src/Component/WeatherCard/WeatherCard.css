@@ -1,0 +1,12 @@
+.WeatherCardContainer{
+    width: 300px;
+    margin: auto;
+    background: grey;
+}
+.WeatherCardIcon{
+    height: 200px !important;
+    max-width:310px;
+}
+.MediaCardDescription{
+    height: 200px;
+}

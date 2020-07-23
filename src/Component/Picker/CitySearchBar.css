@@ -1,0 +1,11 @@
+.CitySearchBarContainer {
+    margin: auto;
+    margin: 30px;
+}
+
+.SearchField{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
